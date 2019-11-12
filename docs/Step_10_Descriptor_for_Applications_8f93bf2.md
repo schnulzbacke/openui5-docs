@@ -228,6 +228,8 @@ In the component's `metadata` section, we now replace the `rootView` property wi
 > 
 > 
 
+Test
+
 ***
 
 ### Conventions
